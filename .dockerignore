@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.git/
+.env
+.streamlit/secrets.toml
+tests/
+examples/
+*.xlsx
